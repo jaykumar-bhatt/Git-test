@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 feature1 by Jay
 2nd commit from master
+=======
+feature1 by Jay
+>>>>>>> feature
